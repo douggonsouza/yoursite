@@ -1,0 +1,22 @@
+{
+    "name": "douggonsouza/yoursite",
+    "description": "Coleção de páginas do acesso",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "douggonsouza\\yoursite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Douglas Gonçalves de Souza",
+            "email": "douggonsouza@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "douggonsouza/propertys": "^1.0.0",
+        "douggonsouza/mvc": "^1.0.0"
+    }
+}
